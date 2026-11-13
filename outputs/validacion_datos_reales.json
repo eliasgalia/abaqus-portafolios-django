@@ -1,0 +1,25 @@
+{
+  "source_sha256": "dfb1d9bbeff5bc4a7d076108444feb643ebf79e3bf388c87c0154f819d6ff7a7",
+  "assets": 17,
+  "portfolios": 2,
+  "positions": 34,
+  "dates": 367,
+  "prices": 6239,
+  "validated_portfolio_days": 734,
+  "max_absolute_value_error_usd": "9.000435454566918174856400E-7",
+  "max_absolute_weight_error": "4.99977809107931664695979127290E-13",
+  "summary": [
+    {
+      "portfolio": "Portafolio 1",
+      "initial": "1000000000.000000",
+      "final": "929055490.736394",
+      "last_date": "2023-02-16"
+    },
+    {
+      "portfolio": "Portafolio 2",
+      "initial": "1000000000.000000",
+      "final": "923548704.771772",
+      "last_date": "2023-02-16"
+    }
+  ]
+}
